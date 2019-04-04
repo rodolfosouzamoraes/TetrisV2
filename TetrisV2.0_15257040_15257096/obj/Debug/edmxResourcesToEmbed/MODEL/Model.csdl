@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="United_BDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tb_Feedback">
+    <Key>
+      <PropertyRef Name="FDB_ID" />
+    </Key>
+    <Property Name="FDB_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FDB_Nickname" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FDB_feedback" Type="String" MaxLength="300" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FDB_DateFeedback" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityType Name="tb_Score">
+    <Key>
+      <PropertyRef Name="SCR_ID" />
+    </Key>
+    <Property Name="SCR_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SCR_Nickname" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SCR_Score" Type="Int32" Nullable="false" />
+    <Property Name="SCR_DateGame" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="SCR_Level" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="United_BDEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tb_Feedback" EntityType="Self.tb_Feedback" />
+    <EntitySet Name="tb_Score" EntityType="Self.tb_Score" />
+    <EntitySet Name="tb_Usuario" EntityType="United_BDModel.tb_Usuario" />
+    <EntitySet Name="tb_Versao" EntityType="United_BDModel.tb_Versao" />
+  </EntityContainer>
+  <EntityType Name="tb_Usuario">
+    <Key>
+      <PropertyRef Name="USR_ID" />
+    </Key>
+    <Property Name="USR_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USR_Nick" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="USR_Senha" Type="String" Nullable="false" MaxLength="8" FixedLength="false" Unicode="false" />
+    <Property Name="USR_DataCadastro" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="USR_Email" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tb_Versao">
+    <Key>
+      <PropertyRef Name="VRS_Versao" />
+    </Key>
+    <Property Name="VRS_Versao" Type="String" Nullable="false" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="VRS_LinkDownload" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

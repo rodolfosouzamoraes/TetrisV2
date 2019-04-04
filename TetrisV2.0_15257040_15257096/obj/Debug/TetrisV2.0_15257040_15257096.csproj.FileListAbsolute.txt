@@ -1,0 +1,106 @@
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe.config
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.pdb
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csprojResolveAssemblyReference.cache
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPrincipalTetris.resources
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.Properties.Resources.resources
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csproj.GenerateResource.Cache
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.exe
+c:\users\rod_s\documents\visual studio 2015\Projects\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe.config
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csprojResolveAssemblyReference.cache
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPrincipalTetris.resources
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.Properties.Resources.resources
+C:\Users\rod_s\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csproj.GenerateResource.Cache
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe.config
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPrincipalTetris.resources
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.Properties.Resources.resources
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csproj.GenerateResource.Cache
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmSobre.resources
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.TelaPrincipal.resources
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPause.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe.config
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPrincipalTetris.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPause.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmSobre.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.Properties.Resources.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.TelaPrincipal.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csproj.GenerateResource.Cache
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmInstrucoes.resources
+C:\Users\Rodolfo\Google Drive\Trabalho Silas 4BI\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmInstrucoes.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmJogador.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPlacar.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe.config
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPrincipalTetris.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmInstrucoes.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmJogador.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPause.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPlacar.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmSobre.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.Properties.Resources.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.TelaPrincipal.resources
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csproj.GenerateResource.Cache
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\Rodolfo\Google Drive\Tetris by Rodolfo\Lixo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe.config
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.pdb
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPrincipalTetris.resources
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmInstrucoes.resources
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmJogador.resources
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPause.resources
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPlacar.resources
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmSobre.resources
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.Properties.Resources.resources
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.TelaPrincipal.resources
+C:\Users\Rodolfo\Google Drive\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csproj.GenerateResource.Cache
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe.config
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.exe
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.pdb
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.exe
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\TetrisV2.0_15257040_15257096.pdb
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csprojResolveAssemblyReference.cache
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPrincipalTetris.resources
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmInstrucoes.resources
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmJogador.resources
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPause.resources
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPlacar.resources
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmSobre.resources
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.Properties.Resources.resources
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.TelaPrincipal.resources
+D:\TI\Projetos\Projetos Visual Studio\Tetris by Rodolfo\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csproj.GenerateResource.Cache
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPrincipalTetris.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmInstrucoes.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmJogador.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPause.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmPlacar.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.FrmSobre.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.Properties.Resources.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2._0_15257040_15257096.TelaPrincipal.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\TetrisV2.0_15257040_15257096.csproj.GenerateResource.Cache
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.config
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.pdb
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.pdb
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.Properties.Resources.resources

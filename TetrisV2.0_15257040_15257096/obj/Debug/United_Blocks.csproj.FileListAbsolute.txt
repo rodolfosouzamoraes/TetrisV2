@@ -1,0 +1,150 @@
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPrincipalTetris.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmInstrucoes.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmJogador.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPause.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacar.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmSobre.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.Properties.Resources.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.TelaPrincipal.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.GenerateResource.Cache
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.config
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.pdb
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\TetrisV2.0_15257040_15257096\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.pdb
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.config
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.pdb
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPrincipalTetris.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmInstrucoes.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmJogador.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPause.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacar.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmSobre.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.Properties.Resources.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.TelaPrincipal.resources
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.GenerateResource.Cache
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.pdb
+D:\TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csprojResolveAssemblyReference.cache
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.config
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.pdb
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPrincipalTetris.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmInstrucoes.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmJogador.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPause.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacar.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmSobre.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.Properties.Resources.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.TelaPrincipal.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.GenerateResource.Cache
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.pdb
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csprojResolveAssemblyReference.cache
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.config
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.pdb
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPrincipalTetris.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmInstrucoes.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmJogador.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPause.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacar.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmSobre.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.Properties.Resources.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.TelaPrincipal.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.GenerateResource.Cache
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.CoreCompileInputs.cache
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.pdb
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.dll
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.xml
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacarOnline.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmFeedback.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmCadastrarUsuario.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmEsqueceuSenha.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmLogin.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmMudarSenha.resources
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe.manifest
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.manifest
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.application
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.application
+C:\Users\rod_s\Documents\Nova pasta\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csprojResolveAssemblyReference.cache
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.manifest
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.application
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.dll
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.SqlServer.dll
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.xml
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.SqlServer.xml
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmCadastrarUsuario.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmEsqueceuSenha.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmFeedback.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmLogin.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmMudarSenha.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacarOnline.resources
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.CoreCompileInputs.cache
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe.manifest
+D:\4-TI\Projetos\Projetos Visual Studio\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.application
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.config
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.manifest
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.application
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.pdb
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.dll
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.xml
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPrincipalTetris.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmCadastrarUsuario.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmEsqueceuSenha.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmFeedback.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmInstrucoes.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmJogador.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmLogin.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmMudarSenha.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPause.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacar.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacarOnline.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmSobre.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.Properties.Resources.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.TelaPrincipal.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.GenerateResource.cache
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.CoreCompileInputs.cache
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe.manifest
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.application
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.CopyComplete
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.pdb
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csprojAssemblyReference.cache
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.config
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe.manifest
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.application
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.exe
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\United Blocks.pdb
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.dll
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.xml
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPrincipalTetris.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmCadastrarUsuario.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmEsqueceuSenha.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmFeedback.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmInstrucoes.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmJogador.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmLogin.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.VIEW.FrmMudarSenha.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPause.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacar.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmPlacarOnline.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.FrmSobre.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.Properties.Resources.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.TelaPrincipal.resources
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.GenerateResource.cache
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.CoreCompileInputs.cache
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe.manifest
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.application
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United_Blocks.csproj.CopyComplete
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.exe
+C:\Users\rod_s\Documents\Projetos\United Blocks\United Blocks\United Block\TetrisV2.0_15257040_15257096\obj\Debug\United Blocks.pdb

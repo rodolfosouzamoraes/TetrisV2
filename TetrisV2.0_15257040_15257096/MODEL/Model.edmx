@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="United_BDModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tb_Feedback">
+          <Key>
+            <PropertyRef Name="FDB_ID" />
+          </Key>
+          <Property Name="FDB_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FDB_Nickname" Type="varchar" MaxLength="15" Nullable="false" />
+          <Property Name="FDB_feedback" Type="varchar" MaxLength="300" Nullable="false" />
+          <Property Name="FDB_DateFeedback" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tb_Score">
+          <Key>
+            <PropertyRef Name="SCR_ID" />
+          </Key>
+          <Property Name="SCR_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SCR_Nickname" Type="varchar" MaxLength="15" Nullable="false" />
+          <Property Name="SCR_Score" Type="int" Nullable="false" />
+          <Property Name="SCR_DateGame" Type="datetime" Nullable="false" />
+          <Property Name="SCR_Level" Type="varchar" MaxLength="10" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tb_Usuario">
+          <Key>
+            <PropertyRef Name="USR_ID" />
+          </Key>
+          <Property Name="USR_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="USR_Nick" Type="varchar" MaxLength="15" Nullable="false" />
+          <Property Name="USR_Senha" Type="varchar" MaxLength="8" Nullable="false" />
+          <Property Name="USR_DataCadastro" Type="datetime" Nullable="false" />
+          <Property Name="USR_Email" Type="varchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'United_BD.dbo.tb_Versao' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="tb_Versao">
+          <Key>
+            <PropertyRef Name="VRS_Versao" />
+          </Key>
+          <Property Name="VRS_Versao" Type="varchar" MaxLength="7" Nullable="false" />
+          <Property Name="VRS_LinkDownload" Type="varchar" MaxLength="500" />
+        </EntityType>
+        <EntityContainer Name="United_BDModelStoreContainer">
+          <EntitySet Name="tb_Feedback" EntityType="Self.tb_Feedback" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tb_Score" EntityType="Self.tb_Score" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tb_Usuario" EntityType="Self.tb_Usuario" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tb_Versao" EntityType="Self.tb_Versao" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [tb_Versao].[VRS_Versao] AS [VRS_Versao], 
+    [tb_Versao].[VRS_LinkDownload] AS [VRS_LinkDownload]
+    FROM [dbo].[tb_Versao] AS [tb_Versao]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="United_BDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tb_Feedback">
+          <Key>
+            <PropertyRef Name="FDB_ID" />
+          </Key>
+          <Property Name="FDB_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FDB_Nickname" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="FDB_feedback" Type="String" MaxLength="300" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="FDB_DateFeedback" Type="DateTime" Nullable="false" Precision="0" />
+        </EntityType>
+        <EntityType Name="tb_Score">
+          <Key>
+            <PropertyRef Name="SCR_ID" />
+          </Key>
+          <Property Name="SCR_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SCR_Nickname" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="SCR_Score" Type="Int32" Nullable="false" />
+          <Property Name="SCR_DateGame" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="SCR_Level" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="United_BDEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tb_Feedback" EntityType="Self.tb_Feedback" />
+          <EntitySet Name="tb_Score" EntityType="Self.tb_Score" />
+          <EntitySet Name="tb_Usuario" EntityType="United_BDModel.tb_Usuario" />
+          <EntitySet Name="tb_Versao" EntityType="United_BDModel.tb_Versao" />
+        </EntityContainer>
+        <EntityType Name="tb_Usuario">
+          <Key>
+            <PropertyRef Name="USR_ID" />
+          </Key>
+          <Property Name="USR_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="USR_Nick" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Name="USR_Senha" Type="String" Nullable="false" MaxLength="8" FixedLength="false" Unicode="false" />
+          <Property Name="USR_DataCadastro" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="USR_Email" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="tb_Versao">
+          <Key>
+            <PropertyRef Name="VRS_Versao" />
+          </Key>
+          <Property Name="VRS_Versao" Type="String" Nullable="false" MaxLength="7" FixedLength="false" Unicode="false" />
+          <Property Name="VRS_LinkDownload" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="United_BDModelStoreContainer" CdmEntityContainer="United_BDEntities">
+          <EntitySetMapping Name="tb_Feedback">
+            <EntityTypeMapping TypeName="United_BDModel.tb_Feedback">
+              <MappingFragment StoreEntitySet="tb_Feedback">
+                <ScalarProperty Name="FDB_ID" ColumnName="FDB_ID" />
+                <ScalarProperty Name="FDB_Nickname" ColumnName="FDB_Nickname" />
+                <ScalarProperty Name="FDB_feedback" ColumnName="FDB_feedback" />
+                <ScalarProperty Name="FDB_DateFeedback" ColumnName="FDB_DateFeedback" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tb_Score">
+            <EntityTypeMapping TypeName="United_BDModel.tb_Score">
+              <MappingFragment StoreEntitySet="tb_Score">
+                <ScalarProperty Name="SCR_ID" ColumnName="SCR_ID" />
+                <ScalarProperty Name="SCR_Nickname" ColumnName="SCR_Nickname" />
+                <ScalarProperty Name="SCR_Score" ColumnName="SCR_Score" />
+                <ScalarProperty Name="SCR_DateGame" ColumnName="SCR_DateGame" />
+                <ScalarProperty Name="SCR_Level" ColumnName="SCR_Level" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tb_Usuario">
+            <EntityTypeMapping TypeName="United_BDModel.tb_Usuario">
+              <MappingFragment StoreEntitySet="tb_Usuario">
+                <ScalarProperty Name="USR_Email" ColumnName="USR_Email" />
+                <ScalarProperty Name="USR_DataCadastro" ColumnName="USR_DataCadastro" />
+                <ScalarProperty Name="USR_Senha" ColumnName="USR_Senha" />
+                <ScalarProperty Name="USR_Nick" ColumnName="USR_Nick" />
+                <ScalarProperty Name="USR_ID" ColumnName="USR_ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tb_Versao">
+            <EntityTypeMapping TypeName="United_BDModel.tb_Versao">
+              <MappingFragment StoreEntitySet="tb_Versao">
+                <ScalarProperty Name="VRS_LinkDownload" ColumnName="VRS_LinkDownload" />
+                <ScalarProperty Name="VRS_Versao" ColumnName="VRS_Versao" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

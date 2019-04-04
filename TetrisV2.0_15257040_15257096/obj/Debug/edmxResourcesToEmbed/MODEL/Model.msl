@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="United_BDModelStoreContainer" CdmEntityContainer="United_BDEntities">
+    <EntitySetMapping Name="tb_Feedback">
+      <EntityTypeMapping TypeName="United_BDModel.tb_Feedback">
+        <MappingFragment StoreEntitySet="tb_Feedback">
+          <ScalarProperty Name="FDB_ID" ColumnName="FDB_ID" />
+          <ScalarProperty Name="FDB_Nickname" ColumnName="FDB_Nickname" />
+          <ScalarProperty Name="FDB_feedback" ColumnName="FDB_feedback" />
+          <ScalarProperty Name="FDB_DateFeedback" ColumnName="FDB_DateFeedback" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Score">
+      <EntityTypeMapping TypeName="United_BDModel.tb_Score">
+        <MappingFragment StoreEntitySet="tb_Score">
+          <ScalarProperty Name="SCR_ID" ColumnName="SCR_ID" />
+          <ScalarProperty Name="SCR_Nickname" ColumnName="SCR_Nickname" />
+          <ScalarProperty Name="SCR_Score" ColumnName="SCR_Score" />
+          <ScalarProperty Name="SCR_DateGame" ColumnName="SCR_DateGame" />
+          <ScalarProperty Name="SCR_Level" ColumnName="SCR_Level" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Usuario">
+      <EntityTypeMapping TypeName="United_BDModel.tb_Usuario">
+        <MappingFragment StoreEntitySet="tb_Usuario">
+          <ScalarProperty Name="USR_Email" ColumnName="USR_Email" />
+          <ScalarProperty Name="USR_DataCadastro" ColumnName="USR_DataCadastro" />
+          <ScalarProperty Name="USR_Senha" ColumnName="USR_Senha" />
+          <ScalarProperty Name="USR_Nick" ColumnName="USR_Nick" />
+          <ScalarProperty Name="USR_ID" ColumnName="USR_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Versao">
+      <EntityTypeMapping TypeName="United_BDModel.tb_Versao">
+        <MappingFragment StoreEntitySet="tb_Versao">
+          <ScalarProperty Name="VRS_LinkDownload" ColumnName="VRS_LinkDownload" />
+          <ScalarProperty Name="VRS_Versao" ColumnName="VRS_Versao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
